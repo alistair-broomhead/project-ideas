@@ -5,7 +5,9 @@ centralised architecture in the end, but just a local version would be great.
 While the rules ets wouldn't have to be the same, there's some great Stars
 documentation for inspiration:
 
-http://wiki.starsautohost.org/wiki/Stars!_FAQ
-http://wiki.starsautohost.org/wiki/Get_Stars!
-http://wiki.starsautohost.org/wiki/Known_Bugs
+- http://wiki.starsautohost.org/wiki/Stars!_FAQ
+
+- http://wiki.starsautohost.org/wiki/Get_Stars!
+
+- http://wiki.starsautohost.org/wiki/Known_Bugs
 
